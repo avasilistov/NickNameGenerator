@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestTrackEnsure</string>
+    <string name="a_nick_generator">NickName Generator</string>
+     <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_surname">Enter your surname</string>
+    <string name="generate">Generate</string>
+
+
+</resources>
